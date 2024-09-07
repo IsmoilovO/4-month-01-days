@@ -80,6 +80,7 @@ const renderTab = (id) => {
                 return `<p>${item.description}</p>`;
             }
 
+
             return null;
         })
         .join("");
