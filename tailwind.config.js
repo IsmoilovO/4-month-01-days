@@ -3,11 +3,12 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
+
       container: {
         center: true,
         padding: "20px",
         screens: {
-          lg: "1240px",
+          lg: "1220px",
         },
       },
     },

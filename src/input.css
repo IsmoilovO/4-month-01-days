@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer bace {
+    body {
+        font-family: "Lato";
+    }
+}
